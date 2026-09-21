@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model files (very large)
+models/**/*.bin
+models/**/*.safetensors
+models/**/*.pth
+models/**/*.pt
+models/**/snapshots/**/*.bin
+models/**/snapshots/**/*.safetensors
+models/**/.no_exist/
+
+# NVIDIA LocateAnything (research/eval license only — do not track)
+models/locate_anything/
+models/grounding_dino/modules/transformers_modules/locate_anything/
+
+# IDE and Cursor
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+*~
+
+# Claude Code & OMC
+.omc/
+.claude/
+
+# Testing
+测试脚本/
+测试数据集/
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Packaging templates and build configuration
+packaging/
+
+# Local-only internal docs and agent instructions
+docs/
+AGENTS.md
+CLAUDE.md
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.txt
+*.out
+debug_*.txt
+debug_*.out
+
+# Keep metadata and configs
+!requirements.txt
+!requirements-cpu.txt
+!requirements-gpu.txt
+!README.md
+!.gitignore

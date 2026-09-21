@@ -1,0 +1,54 @@
+VisionForge
+Copyright 2026 张世杰 (Zhang Shijie)
+
+This product includes original VisionForge source licensed under the Apache
+License, Version 2.0. See the LICENSE file.
+
+This repository also contains third-party software. Those components remain
+under their original licenses; Apache 2.0 does not relicense them.
+
+---------------------------------------------------------------------------
+Third-party software
+---------------------------------------------------------------------------
+
+sam3_src/
+  Segment Anything Model 3 (SAM3)
+  Copyright Meta Platforms, Inc. and affiliates.
+  License: SAM License (see sam3_src/LICENSE)
+  The SAM License is not an OSI-approved license. Redistribution of SAM
+  Materials must remain under that license and include a copy of it.
+  Use of SAM Materials is not permitted for military, warfare, ITAR, or
+  other end uses prohibited by Trade Controls, as stated in the SAM License.
+
+GroundingDINO
+  Copyright IDEA Research
+  License: Apache License 2.0
+  https://github.com/IDEA-Research/GroundingDINO
+
+PySide6
+  Copyright The Qt Company Ltd. and/or its subsidiaries
+  License: GNU Lesser General Public License v3.0
+
+PyTorch
+  Copyright contributors of PyTorch
+  License: BSD 3-Clause
+
+transformers, huggingface-hub, tokenizers, safetensors
+  Copyright Hugging Face, Inc. and contributors
+  License: Apache License 2.0
+
+opencv-python
+  Copyright OpenCV team
+  License: Apache License 2.0
+
+NumPy
+  Copyright NumPy developers
+  License: BSD 3-Clause
+
+Pillow
+  Copyright Secret Labs AB, Fredrik Lundh, and contributors
+  License: HPND-derived Pillow license
+
+PyYAML
+  Copyright Kirill Simonov
+  License: MIT

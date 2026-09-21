@@ -1,0 +1,11 @@
+# Common runtime dependencies for VisionForge.
+# Install either requirements-cpu.txt (default) or requirements-gpu.txt as well.
+PySide6==6.6.0
+numpy==1.26.4
+opencv-python==4.13.0.90
+Pillow==12.1.1
+PyYAML==6.0.3
+transformers==4.57.1
+safetensors==0.8.0
+huggingface-hub==0.36.2
+tokenizers==0.22.2
