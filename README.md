@@ -180,7 +180,7 @@ conda run -n visionforge python -m pytest src/tests/ -v --tb=short
 
 ## 许可协议
 
-VisionForge 自有代码以 [Apache License 2.0](LICENSE) 授权，版权人：张世杰 (Zhang Shijie)。
+VisionForge 自有代码以 [Apache License 2.0](LICENSE) 授权。
 
 本仓库是**混合许可**：
 
