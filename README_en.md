@@ -180,7 +180,7 @@ If you find this project helpful, please consider giving it a ⭐️!
 
 ## License
 
-Original VisionForge source is licensed under the [Apache License 2.0](LICENSE). Copyright 2026 张世杰 (Zhang Shijie).
+Original VisionForge source is licensed under the [Apache License 2.0](LICENSE). 
 
 This repository uses a **mixed license**:
 
